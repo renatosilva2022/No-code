@@ -1,1 +1,1 @@
-https://www.app.bubble.html
+https://exerciciospditabira.bubbleapps.io/version-test?debug_mode=true
